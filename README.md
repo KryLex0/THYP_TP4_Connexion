@@ -24,4 +24,9 @@ Lorsqu'un dossier contient plusieurs sous dossiers ainsi que différents types d
 Des vérifications sont faites afin de permettre seulement l'affichage des pages contenants des informations. Lorsque l'utilisateur arrive sur la page, il est directement redirigé vers la page 1. Si l'utilisateur tente de changer le paramètre du numéro de page dans l'url, il est soit redirigé vers la 1ère page, soit vers la dernière page contenant des informations s'il tente d'accéder à une page ne contenant aucunes données.
 Des boutons permettent d'accéder aux pages proches de la page actuelle soit via des flèches, soit les numéros de page voisin. Il est également possible d'accéder directement à la 1ère ou dernière page via des boutons.
 
+## Connexion
+
+Possibilitée de visiter la page en mode visiteur (sans connexion requise). Il est donc possible de voir les images, naviguer à travers les pages, upload une image.
+Dans le cas d'une connexion d'un utilisateur ayant le role "administrateur", il dispose en plus d'un bouton sous chaque image afin de les supprimer.
+
 ©Adam MKHININI
